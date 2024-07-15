@@ -1,0 +1,11 @@
+[
+  { "id": 1, "fname": "nasma", "lname": "farge", "city": "benghzi", "age": 30 },
+  {
+    "id": 2,
+    "fname": "mohamed",
+    "lname": "elkash",
+    "city": "benghzi","age": 29 },
+  { "id": 3, "fname": "fatma", "lname": "obaid", "city": "benghzi", "age": 29 },
+  { "id": 4, "fname": "noha", "lname": "ali", "city": "benghzi", "age": 30 },
+  { "id": 5, "fname": "marwa", "lname": "elgrb", "city": "benghzi", "age": 29 }
+]
